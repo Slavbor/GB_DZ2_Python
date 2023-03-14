@@ -19,4 +19,3 @@ if reshka > orel:
     print(f"Нужно перевернуть {orel} мон.")
 else:
     print(f"Нужно перевернуть {reshka} мон.")
-

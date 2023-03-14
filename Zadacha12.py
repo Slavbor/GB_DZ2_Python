@@ -14,3 +14,4 @@ for i in range(number1):
             exit()
 print("Не соответствует условию.")
 
+
