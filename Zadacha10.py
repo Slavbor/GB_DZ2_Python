@@ -20,4 +20,3 @@ if reshka > orel:
 else:
     print(f"Нужно перевернуть {reshka} мон.")
 
-
